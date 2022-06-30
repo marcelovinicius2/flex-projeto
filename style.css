@@ -106,3 +106,20 @@ header .menu {
     margin-bottom: 10px;
     width: 90%;
 }
+
+#quemsomos .img {
+    min-width: 420px;
+}
+
+container-externo {
+    background-color: #122A57;
+    width: 100%;
+}
+
+#list-servicos {
+    display: flex;
+}
+
+#servicos {
+    flex-direction: column;
+}
